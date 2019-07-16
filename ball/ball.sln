@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ball", "ball\ball.csproj", "{E9A26474-24AB-441E-9D3C-B1DB47EBCEC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A26474-24AB-441E-9D3C-B1DB47EBCEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A26474-24AB-441E-9D3C-B1DB47EBCEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A26474-24AB-441E-9D3C-B1DB47EBCEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A26474-24AB-441E-9D3C-B1DB47EBCEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDFFC000-B136-4374-8E7D-3D1635325D46}
+	EndGlobalSection
+EndGlobal
